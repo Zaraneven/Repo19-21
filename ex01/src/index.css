@@ -1,0 +1,61 @@
+#display {
+    margin: 0 0 5px;
+    padding: 5px;
+    width: 530px;
+    height: 200px;
+    font: 1em/1.5 Verdana, Sans-Serif;
+    background: #fff;
+    border: 1px solid #f9f9f9;
+    -moz-border-radius: 1px;
+    -webkit-border-radius: 1px;
+}
+
+#container {
+    margin: 100px auto;
+    width: 580px;
+}
+.keyboard {
+   background: black;
+   float: left;
+   padding: 0.1px;
+   border-radius: 5px;
+   
+    
+}
+
+.key {
+    width: 40px;
+    height: 40px;
+    background: black;
+    color: white;
+}
+#btnBs {
+    width: 85px;
+    height: 85px;
+    background: black;
+    color: white;
+}
+#btnCl {
+    width: 130px;
+    height: 40px;
+    background: black;
+    color: white;
+}
+#btnSh {
+    width: 130px;
+    height: 40px;
+    background: black;
+    color: white;
+}
+#btnSp {
+    width: 400px;
+    height: 40px;
+    background: black;
+    color: white;
+}
+#btnOk {
+    width: 130px;
+    height: 40px;
+    background: black;
+    color: white;
+}
